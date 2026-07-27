@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="60" viewBox="0 0 400 60">
+  <rect width="400" height="60" fill="black"/>
+  <g>
+    <polygon points="0,0 30,0 60,60 30,60" fill="yellow"/>
+    <polygon points="60,0 90,0 120,60 90,60" fill="yellow"/>
+    <polygon points="120,0 150,0 180,60 150,60" fill="yellow"/>
+    <polygon points="220,0 250,0 280,60 250,60" fill="yellow"/>
+    <polygon points="280,0 310,0 340,60 310,60" fill="yellow"/>
+    <polygon points="340,0 370,0 400,60 370,60" fill="yellow"/>
+  </g>
+  <rect x="55" y="12" width="290" height="36" fill="black"/>
+  <text x="68" y="38" font-family="Comic Sans MS, cursive" font-size="20" fill="yellow" font-weight="bold">🚧 UNDER CONSTRUCION 🚧</text>
+</svg>

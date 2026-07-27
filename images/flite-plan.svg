@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="640" height="360" viewBox="0 0 640 360">
+  <rect width="640" height="360" fill="#ff69b4"/>
+  <text x="140" y="45" font-family="Comic Sans MS, cursive" font-size="30" fill="yellow" font-weight="bold" stroke="black" stroke-width="1">YOUR FLITE ITINARARY</text>
+
+  <!-- flight path: straight up then straight down -->
+  <g stroke="black" stroke-width="6" fill="none" stroke-dasharray="14 10">
+    <path d="M80 300 L200 90"/>
+    <path d="M200 90 L320 310"/>
+  </g>
+
+  <!-- takeoff -->
+  <rect x="40" y="300" width="120" height="16" fill="#555555"/>
+  <text x="30" y="345" font-family="Comic Sans MS, cursive" font-size="18" fill="white" font-weight="bold">sec 0: TAKE OF</text>
+
+  <!-- peak -->
+  <rect x="170" y="55" width="70" height="45" fill="#b22222" stroke="black" stroke-width="4"/>
+  <text x="245" y="70" font-family="Comic Sans MS, cursive" font-size="18" fill="white" font-weight="bold">sec 5: crusing</text>
+  <text x="245" y="92" font-family="Comic Sans MS, cursive" font-size="18" fill="white" font-weight="bold">altitude (30 feets)</text>
+
+  <!-- crash -->
+  <g>
+    <polygon points="320,310 300,270 315,285 320,255 330,285 345,265 340,300 360,290" fill="orange" stroke="red" stroke-width="4"/>
+    <text x="355" y="330" font-family="Comic Sans MS, cursive" font-size="18" fill="white" font-weight="bold">sec 10: arival* </text>
+  </g>
+
+  <!-- money -->
+  <text x="420" y="120" font-family="Comic Sans MS, cursive" font-size="60">💰</text>
+  <text x="400" y="170" font-family="Comic Sans MS, cursive" font-size="18" fill="yellow" font-weight="bold">sec 11: WE PAY *YOU*</text>
+  <text x="400" y="195" font-family="Comic Sans MS, cursive" font-size="18" fill="yellow" font-weight="bold">$49.99!! (check by male)</text>
+
+  <text x="40" y="358" font-family="Comic Sans MS, cursive" font-size="13" fill="black">*"arival" is a legal term. destinasion may be the ground. it is the ground.</text>
+</svg>

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="340" viewBox="0 0 300 340">
+  <rect width="300" height="340" fill="#00ff00"/>
+  <!-- head -->
+  <circle cx="150" cy="120" r="70" fill="#ffdbac" stroke="black" stroke-width="5"/>
+  <!-- hard hat (safety first) -->
+  <path d="M80 100 A70 70 0 0 1 220 100 Z" fill="yellow" stroke="black" stroke-width="5"/>
+  <rect x="70" y="95" width="160" height="14" fill="yellow" stroke="black" stroke-width="4"/>
+  <!-- face -->
+  <circle cx="125" cy="125" r="8" fill="black"/>
+  <circle cx="175" cy="125" r="8" fill="black"/>
+  <path d="M115 160 Q150 190 185 160" stroke="black" stroke-width="5" fill="none"/>
+  <!-- suit but its a brick pattern tie -->
+  <rect x="90" y="190" width="120" height="120" fill="#333333"/>
+  <rect x="138" y="190" width="24" height="100" fill="#b22222" stroke="black" stroke-width="3"/>
+  <line x1="138" y1="220" x2="162" y2="220" stroke="black" stroke-width="2"/>
+  <line x1="138" y1="250" x2="162" y2="250" stroke="black" stroke-width="2"/>
+  <!-- thumbs up -->
+  <text x="215" y="260" font-size="50">👍</text>
+  <text x="35" y="330" font-family="Comic Sans MS, cursive" font-size="20" fill="black" font-weight="bold">Henry (CEO + pilot** )</text>
+</svg>
